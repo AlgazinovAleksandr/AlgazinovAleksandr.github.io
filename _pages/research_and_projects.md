@@ -1,9 +1,11 @@
 ---
-title: "Current Projects"
-collection: research_and_projects
+layout: archive
+title: "Research & Projects"
+permalink: /research_and_projects/
+author_profile: true
 ---
 
-Description of my current research and projects.
+{% include base_path %}
 
 # STREAM-RL
 
