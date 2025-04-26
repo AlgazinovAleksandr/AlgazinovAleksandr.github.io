@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-# Site_them can be either default or dark
+# Site_them can be either default or dark. Check the _saas/theme
 locale                   : "en-US"
 site_theme               : "dark"
 title                    : "Aleksandr's Homepage"
@@ -23,7 +23,7 @@ repository               : "AlgazinovAleksandr/AlgazinovAleksandr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Algazinov_photo.jpg"
+  avatar           : "Profile_Picture_Conference.jpg"
   name             : "Aleksandr Algazinov"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science student at the best technical university in China and Data Scientist with 2.5 years of hard work at the two biggest banks in Russia. I use Big Data and AI technologies to solve business problems and conduct research"
@@ -66,7 +66,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : krasnorechivyy
+  telegram         : https://t.me/krasnorechivyy
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
