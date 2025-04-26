@@ -2,9 +2,6 @@
 permalink: /research_and_projects/
 title: "Research & Projects"
 author_profile: true
-redirect_from: 
-  - /research_and_projects/
-  - /research_and_projects.html
 ---
 
 # STREAM-RL
