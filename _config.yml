@@ -228,7 +228,7 @@ collections:
     permalink: /:collection/:path/
   research_and_projects:
     output: true  # Generates HTML files for items in this collection
-    permalink: /research_and_projects/:path/  # Optional: Custom URL structure
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
