@@ -7,8 +7,9 @@
 # server process.
 
 # Basic Site Settings
+# Site_them can be either default or dark
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "dark"
 title                    : "Aleksandr's Homepage"
 title_separator          : "-"
 name                     : &name "Aleksandr Algazinov"
