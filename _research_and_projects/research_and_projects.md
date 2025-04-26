@@ -1,6 +1,5 @@
 ---
 title: "Current Projects"
-excerpt:
 collection: research_and_projects
 ---
 
