@@ -2,26 +2,27 @@
    DARK THEME
    ========================================================================== */
 
-/* Color codes used for the theme */
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
+/* Color codes - Darker palette */
+$gray                       : #6b6b6b;  // Adjusted medium gray
+$dark-gray                  : #2a2a2a;  // Darker gray
+$darker-gray                : #1a1a1a;  // Near-black
+$light-gray                 : #9e9e9e;  // Brighter gray for contrast
 
-$background                 : #474747;
-$background-light           : mix(#fff, $background, 80%);
-$background-lighter         : mix(#fff, $background, 90%);
-$text                       : #ffffff;
-$link                       : #0ea1c5;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+/* Base colors */
+$background                 : #121212;  // Near-black base
+$background-light           : #2a2a2a;   // Slightly lighter
+$background-lighter         : #404040;   // For subtle highlights
+$text                       : #e0e0e0;   // Soft white for readability
+$link                       : #4dabf7;   // Brighter blue for better contrast
+$link-dark                  : mix(#000, $link, 20%);
+$link-light                 : mix(#fff, $link, 20%);
 
-/* Color codes used for the site */
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
+/* Status colors */
+$danger-color               : #ff6b6b;   // Softer red
+$info-color                 : #4dabf7;   // Matching link color
+$notice-color               : #9e9e9e;   // Using light gray
+$success-color              : #69db7c;   // Muted green
+$warning-color              : #ffd43b;   // Gold yellow
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
