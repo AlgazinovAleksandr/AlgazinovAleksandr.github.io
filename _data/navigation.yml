@@ -29,8 +29,8 @@ main:
   - title: "Current Research & Projects"
     url: /files/research_and_projects.md
     
-  - title: "CV"
-    url: /files/Aleksandr_Algazinov_CV.pdf
+  # - title: "CV"
+  #   url: /files/Aleksandr_Algazinov_CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
