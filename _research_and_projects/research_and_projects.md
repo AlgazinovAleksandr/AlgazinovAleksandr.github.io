@@ -3,6 +3,8 @@ title: "Current Projects"
 collection: research_and_projects
 ---
 
+Description of my current research and projects.
+
 # STREAM-RL
 
 + The project code and a more detailed description are available at [my GitHub](https://github.com/AlgazinovAleksandr/STREAM-RL)
