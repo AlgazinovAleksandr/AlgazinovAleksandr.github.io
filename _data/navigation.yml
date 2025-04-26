@@ -22,6 +22,9 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+  - title: "Current Research & Projects"
+    url: /research_and_projects/
     
   - title: "CV"
     url: /files/Aleksandr_Algazinov_CV.pdf
