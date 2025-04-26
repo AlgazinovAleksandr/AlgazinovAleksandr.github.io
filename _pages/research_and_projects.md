@@ -1,3 +1,12 @@
+---
+permalink: /research_and_projects/
+title: "Research & Projects"
+author_profile: true
+redirect_from: 
+  - /research_and_projects/
+  - /research_and_projects.html
+---
+
 # STREAM-RL
 
 + The project code and a more detailed description are available at [my GitHub](https://github.com/AlgazinovAleksandr/STREAM-RL)
