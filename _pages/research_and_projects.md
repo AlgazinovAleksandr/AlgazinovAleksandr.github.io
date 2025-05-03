@@ -1,6 +1,6 @@
 ---
 permalink: /research_and_projects/
-title: "Current Research & Projects"
+title: ""
 author_profile: true
 ---
 
