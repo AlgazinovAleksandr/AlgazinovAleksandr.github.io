@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustation of the life philosophy](/images/The_Power_of_Lifelong_Learning_smaller.png){: .align-right width="300px"}
+![Illustation of the life philosophy](/images/The_Power_of_Lifelong_Learning_smaller.jpg){: .align-right width="300px"}
 
 I'm a Computer Science graduate student at [Tsinghua University](https://www.tsinghua.edu.cn/en/About/General_Information.htm), doing research under the supervision of [THUIAR](https://thuiar.github.io/) and [THUNLP](https://nlp.csai.tsinghua.edu.cn/) labs. My research interests are NLP, Multimodal Information Processing, Multi-Agent LLM Systems, and Time Series Analysis. 
 
