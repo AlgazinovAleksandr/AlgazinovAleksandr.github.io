@@ -35,6 +35,11 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=4ksh3CQAAAAJ&hl"
+  email            : "algazinovalexandr@gmail.com"
+  github           : "AlgazinovAleksandr"
+  linkedin         : aleksandr-algazinov-726b54272/
+  telegram         : https://t.me/krasnorechivyy
+  googlescholar    : "https://scholar.google.com/citations?user=4ksh3CQAAAAJ&hl"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -46,11 +51,11 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  email            : "algazinovalexandr@gmail.com"
-  github           : "AlgazinovAleksandr"
-  linkedin         : aleksandr-algazinov-726b54272/
-  telegram         : https://t.me/krasnorechivyy
-  googlescholar    : "https://scholar.google.com/citations?user=4ksh3CQAAAAJ&hl"
+  # email            : "algazinovalexandr@gmail.com"
+  # github           : "AlgazinovAleksandr"
+  # linkedin         : aleksandr-algazinov-726b54272/
+  # telegram         : https://t.me/krasnorechivyy
+  # googlescholar    : "https://scholar.google.com/citations?user=4ksh3CQAAAAJ&hl"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
