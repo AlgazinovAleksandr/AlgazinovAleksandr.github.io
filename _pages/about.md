@@ -9,7 +9,7 @@ redirect_from:
 
 ![Illustation of the life philosophy](/images/The_Power_of_Lifelong_Learning_smaller.jpg){: .align-right width="300px"}
 
-Currently I'm an ML-Researcher and a Computer Science graduate student at [Tsinghua University](https://www.tsinghua.edu.cn/en/About/General_Information.htm), doing research under the supervision of [THUIAR](https://thuiar.github.io/) and [THUNLP](https://nlp.csai.tsinghua.edu.cn/) labs. My research interests are NLP, Multimodal AI, Multi-Agent Systems, Generative AI, and Time Series Analysis. 
+Currently I'm an ML-Researcher and a Computer Science graduate student at [Tsinghua University](https://www.tsinghua.edu.cn/en/About/General_Information.htm), doing research under the supervision of the [THUIAR](https://thuiar.github.io/) lab. My research interests are Multimodal AI, NLP, Multi-Agent Systems, Time Series Analysis, and Generative AI. 
 
 Before coming to China, I studied Economics at [HSE University](https://www.hse.ru/en/), which is the best university in Russia for Computer Science and Economics. Already at the beginning of my studies, I became interested in Machine Learning. Hence, besides my main course work, I took many courses from the Department of Computer Science, such as Machine Learning, Deep Learning, Natural Language Processing, Big Data, etc.
 
