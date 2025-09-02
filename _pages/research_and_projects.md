@@ -4,22 +4,22 @@ title: ""
 author_profile: true
 ---
 
-# STREAM-RL
+# Graph-STREAM
 
-+ We are building an RL-based pipeline to optimize the vehicle traffic.
++ We are building an Graph-based pipeline to optimize the vehicle traffic.
 
 + High traffic load remains a major issue, especially for big cities. Traffic can be forecasted, therefore, mitigated by changing the navigation trajectories, controling the traffic lights, etc.
 This system can be fully automated by using AI models. Our goal is to create a unified framework combining anomaly detection, forecasting, and human feedback modeling in traffic systems.
 
 + Please check the [project repository](https://github.com/AlgazinovAleksandr/STREAM-RL) for more detailed information.
 
-<!-- # TrueGL
+# TrueGL
 
 + We are developing a search engine that introduces a novel AI-driven truth and reliability scoring system, assigning each search result a truth parameter on a scale of 0 (lie) to 10 (absolute truth). 
 
 + Inspired by the need to combat misinformation, this approach redefines search engines by providing users with a quantifiable measure of information trustworthiness.
 
-+ Please check the [project repository](https://github.com/AlgazinovAleksandr/TrueGL) for more detailed information. -->
++ Please check the [project repository](https://github.com/AlgazinovAleksandr/TrueGL) for more detailed information.
 
 # Mutli-Agent MATE
 
