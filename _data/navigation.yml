@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -29,8 +29,11 @@ main:
   - title: "CV"
     url: /files/Aleksandr_Algazinov_CV_Public.pdf
 
-  - title: "Current Research & Projects"
-    url: /research_and_projects/
+  - title: "Problems I'm working on"
+    url: /current_projects/
+
+  - title: "Completed Projects"
+    url: /completed_projects/
     
   # - title: "CV"
   #   url: /cv-json/
