@@ -14,7 +14,7 @@ author_profile: true
 
 ## VTB Bank — ML Engineer *(Sep 2023 - Aug 2024)*
 
-**Proactive anomaly detection**: Built a time-series anomaly detection pipeline (isolation forest, Prophet, volatility analysis) deployed in production (Airflow, Docker, PostgreSQL), enabling identification of system failures *hours ahead of human monitoring*.
+**Proactive anomaly detection**: Built a time-series anomaly detection pipeline (isolation forest, Prophet, volatility analysis) deployed in production (Airflow, Docker, PostgreSQL), enabling identification of system failures *hours ahead of human monitoring*. In addition, implemented a time series classifier across 50+ features (sliding window statistics, simple time series features, changepoints, correlations, etc), and integrated it into an anomaly detection pipeline.
 
 **Automated support request classification**: Built a text processing pipeline for the technical support service to automatically classify tickets based on request title and body: TF-IDF + SVD + mini-batch K-Means for unsupervised request clustering, followed by a LightGBM classifier for automatic ticket routing - reducing average processing time by ~25%.
 
