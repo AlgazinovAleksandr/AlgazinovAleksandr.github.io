@@ -14,13 +14,13 @@ author_profile: true
 
 + [arXiv:2506.19502](https://arxiv.org/abs/2506.19502) · [GitHub](https://github.com/AlgazinovAleksandr/Multi-Agent-MATE)
 
-## TRACE: Reliability Scoring Framework
+## TRACE: Reliability Scoring Framework *(WWW 2026)*
 
-+ Fine-tuned a small-scale LLM within the TRACE framework for assigning transparency-focused reliability scores to web content on a scale from 0 (completely unreliable) to 10 (universal truth).
++ Fine-tuned a small-scale LLM within the TRACE framework for assigning transparency-focused reliability scores to web content on a scale from 0 (completely unreliable) to 10 (universal truth). The fine-tuned model is released as [TrueGL](https://github.com/AlgazinovAleksandr/TrueGL) — an open-source checkpoint; TRACE refers to the overall framework and paper.
 
 + Inspired by the need to combat misinformation, this approach redefines how users assess trustworthiness of search results and web sources.
 
-+ [arXiv:2506.12072](https://arxiv.org/abs/2506.12072v3) · [GitHub](https://github.com/AlgazinovAleksandr/TrueGL)
++ [ACM · WWW 2026](https://dl.acm.org/doi/10.1145/3774905.3795838) · [GitHub](https://github.com/AlgazinovAleksandr/TrueGL)
 
 ## AI in Network Devices (Springer Book Chapter)
 

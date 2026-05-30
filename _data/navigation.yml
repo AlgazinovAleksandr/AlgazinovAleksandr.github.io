@@ -8,24 +8,9 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Home"
+    url: /
 
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-
-  # - title: "Current Research & Projects"
-  #   url: /files/research_and_projects.md
-    
   - title: "CV"
     url: /files/Aleksandr_Algazinov_CV_Public.pdf
 
@@ -34,9 +19,27 @@ main:
 
   - title: "Completed Projects"
     url: /completed_projects/
-    
+
+  - title: "Publications"
+    url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Current Research & Projects"
+  #   url: /files/research_and_projects.md
+
   # - title: "CV"
   #   url: /cv-json/
-    
+
   # - title: "Guide"
   #   url: /markdown/
