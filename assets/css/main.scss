@@ -41,3 +41,8 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* Active navigation item */
+.masthead__menu-item.active > a {
+  font-weight: bold;
+}

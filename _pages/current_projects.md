@@ -4,8 +4,6 @@ title: ""
 author_profile: true
 ---
 
-# Current Research & Projects
-
 ## Multi-Agent Systems at Sberbank *(Oct 2025 – Present)*
 
 + Developing complex end-to-end multi-agent systems and LLM applications for Sberbank's projects.

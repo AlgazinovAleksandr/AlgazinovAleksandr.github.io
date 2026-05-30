@@ -4,32 +4,24 @@ title: ""
 author_profile: true
 ---
 
-# Completed Projects
+## Tsinghua University — AI Researcher *(Aug 2024 – Oct 2025)*
 
-## MATE: Multi-Agent System for Context-Aware Modality Conversions
+**Multimodal fusion robustness** - Enhanced multimodal information processing systems by integrating weighted fusion networks and modality reconstruction pipelines (~2.7% accuracy improvement).
 
-+ Multi-agent system that improves accessibility by generating context-aware modality conversions between text, audio, and visual modalities using open-source models.
+**Repository documentation generation** - Built and deployed a multi-agent MVP (AutoGen, FastAPI, Docker) that auto-generates documentation for code repositories.
 
-+ Accessibility is a critical issue for the elderly and people with disabilities. MATE addresses this by intelligently selecting the best conversion strategy based on user context.
+---
 
-+ [arXiv:2506.19502](https://arxiv.org/abs/2506.19502) · [GitHub](https://github.com/AlgazinovAleksandr/Multi-Agent-MATE)
+## VTB Bank — ML Engineer *(Sep 2023 – Aug 2024)*
 
-## TRACE: Reliability Scoring Framework *(WWW 2026)*
+**Proactive anomaly detection** - Built a time-series anomaly detection pipeline (isolation forest, Prophet, volatility analysis) deployed in production (Airflow, Docker, PostgreSQL), enabling identification of system failures *hours ahead of human monitoring*.
 
-+ Fine-tuned a small-scale LLM within the TRACE framework for assigning transparency-focused reliability scores to web content on a scale from 0 (completely unreliable) to 10 (universal truth). The fine-tuned model is released as [TrueGL](https://github.com/AlgazinovAleksandr/TrueGL) — an open-source checkpoint; TRACE refers to the overall framework and paper.
+**Automated support request classification** — Built a text processing pipeline for the technical support service to automatically classify tickets based on request title and body: TF-IDF + SVD + mini-batch K-Means for unsupervised request clustering, followed by a LightGBM classifier for automatic ticket routing — reducing average processing time by ~25%.
 
-+ Inspired by the need to combat misinformation, this approach redefines how users assess trustworthiness of search results and web sources.
+---
 
-+ [ACM · WWW 2026](https://dl.acm.org/doi/10.1145/3774905.3795838) · [GitHub](https://github.com/AlgazinovAleksandr/TrueGL)
+## Sberbank — Data Scientist *(Mar 2022 – Sep 2023)*
 
-## AI in Network Devices (Springer Book Chapter)
+**Demand forecasting** — Implemented a production demand forecasting system across 100+ time series (product × supply center × customer triplets): lag feature generation with Prophet and linear regression predictions as meta-features fed into a CatBoost model (Hyperopt-tuned), improving supply efficiency by ~20%.
 
-+ Survey on AI techniques embedded in network devices for improved efficiency, latency reduction, and topology optimization.
-
-+ [Springer book chapter](https://link.springer.com/chapter/10.1007/978-3-032-19185-4_12)
-
-## VTB Bank: Anomaly Detection Pipeline
-
-+ Built a production anomaly detection pipeline for time series data at VTB Bank (one of Russia's two largest banks).
-
-+ Presented the methods, challenges, and solutions at the [Open Data Science conference](https://www.youtube.com/watch?v=v9JS1vsIUkY&list=LL&index=51) (in Russian).
+**Geo-spatial store location optimization** — Built geo-spatial ML pipelines to identify optimal store locations and forecast company revenue for multi-format retail expansion across 15+ business cases, using spatial feature engineering.
