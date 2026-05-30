@@ -7,4 +7,5 @@ excerpt: 'Multi-agent system that improves accessibility by generating context-a
 date: 2025-06-24
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2506.19502'
+githuburl: 'https://github.com/AlgazinovAleksandr/Multi-Agent-MATE'
 ---
